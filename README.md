@@ -74,7 +74,7 @@ README.md	Project documentation (this file)
 
 Clone this repository
 
-git clone https://github.com/yourusername/Abbott-Districts-Research.git
+git clone https://github.com/proayush22/Abbott-District-Research.git
 cd Abbott-Districts-Research
 
 
